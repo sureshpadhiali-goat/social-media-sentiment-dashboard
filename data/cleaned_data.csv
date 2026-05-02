@@ -1,0 +1,501 @@
+id,date,platform,user,content,clean_text
+0,2026-01-27,Instagram,user_80,Absolutely fantastic!,absolutely fantastic
+1,2026-02-25,Twitter,user_60,Absolutely fantastic!,absolutely fantastic
+2,2026-02-14,Twitter,user_56,Average experience,average experience
+3,2026-03-17,Instagram,user_71,Could be better,could better
+4,2026-03-21,Reddit,user_15,Best service ever,best service ever
+5,2026-01-25,Reddit,user_61,Decent overall,decent overall
+6,2026-02-03,Twitter,user_53,Average experience,average experience
+7,2026-04-09,Twitter,user_2,Could be better,could better
+8,2026-01-08,Twitter,user_39,I hate this product,hate product
+9,2026-04-10,Instagram,user_50,"Amazing experience, highly recommend",amazing experience highly recommend
+10,2026-03-19,Instagram,user_44,Not worth the money,worth money
+11,2026-03-27,Instagram,user_5,Could be better,could better
+12,2026-01-13,Twitter,user_61,Worst experience ever,worst experience ever
+13,2026-02-15,Reddit,user_50,Absolutely fantastic!,absolutely fantastic
+14,2026-03-24,Twitter,user_91,Average experience,average experience
+15,2026-03-25,Reddit,user_52,"It's okay, nothing special",okay nothing special
+16,2026-03-03,Reddit,user_52,Very disappointed with the service,disappointed service
+17,2026-01-02,Reddit,user_79,I hate this product,hate product
+18,2026-01-07,Instagram,user_70,Terrible quality,terrible quality
+19,2026-03-27,Twitter,user_23,"Amazing experience, highly recommend",amazing experience highly recommend
+20,2026-04-10,Twitter,user_62,I hate this product,hate product
+21,2026-04-13,Reddit,user_16,"Not bad, not great",bad great
+22,2026-01-25,Instagram,user_42,Terrible quality,terrible quality
+23,2026-02-09,Twitter,user_39,"Not bad, not great",bad great
+24,2026-03-19,Twitter,user_1,I hate this product,hate product
+25,2026-04-20,Instagram,user_48,Could be better,could better
+26,2026-02-26,Reddit,user_41,I hate this product,hate product
+27,2026-03-29,Twitter,user_60,I love this product!,love product
+28,2026-01-14,Reddit,user_3,Not worth the money,worth money
+29,2026-04-20,Reddit,user_26,I hate this product,hate product
+30,2026-04-28,Twitter,user_6,"Not bad, not great",bad great
+31,2026-02-13,Reddit,user_24,I love this product!,love product
+32,2026-04-24,Reddit,user_84,Could be better,could better
+33,2026-03-20,Twitter,user_47,"It's okay, nothing special",okay nothing special
+34,2026-01-15,Instagram,user_61,"It's okay, nothing special",okay nothing special
+35,2026-04-16,Reddit,user_61,"Not bad, not great",bad great
+36,2026-04-23,Reddit,user_76,Worst experience ever,worst experience ever
+37,2026-04-18,Twitter,user_4,Very disappointed with the service,disappointed service
+38,2026-04-15,Reddit,user_67,Super happy with the quality,super happy quality
+39,2026-04-22,Twitter,user_78,Best service ever,best service ever
+40,2026-04-25,Instagram,user_35,Decent overall,decent overall
+41,2026-03-09,Instagram,user_81,I hate this product,hate product
+42,2026-04-25,Reddit,user_21,I hate this product,hate product
+43,2026-01-02,Reddit,user_13,Could be better,could better
+44,2026-04-25,Instagram,user_65,I hate this product,hate product
+45,2026-01-28,Twitter,user_63,Worst experience ever,worst experience ever
+46,2026-04-27,Twitter,user_66,Not worth the money,worth money
+47,2026-03-30,Instagram,user_68,I hate this product,hate product
+48,2026-02-10,Reddit,user_43,Absolutely fantastic!,absolutely fantastic
+49,2026-03-07,Instagram,user_71,Could be better,could better
+50,2026-01-30,Twitter,user_87,I hate this product,hate product
+51,2026-03-18,Twitter,user_9,Terrible quality,terrible quality
+52,2026-01-29,Instagram,user_8,Decent overall,decent overall
+53,2026-04-12,Twitter,user_55,Could be better,could better
+54,2026-01-05,Twitter,user_28,I love this product!,love product
+55,2026-03-21,Twitter,user_29,Could be better,could better
+56,2026-03-30,Reddit,user_62,Worst experience ever,worst experience ever
+57,2026-02-16,Instagram,user_89,Super happy with the quality,super happy quality
+58,2026-02-14,Instagram,user_45,"Amazing experience, highly recommend",amazing experience highly recommend
+59,2026-03-14,Instagram,user_73,Average experience,average experience
+60,2026-04-29,Reddit,user_53,"It's okay, nothing special",okay nothing special
+61,2026-03-17,Instagram,user_45,Very disappointed with the service,disappointed service
+62,2026-01-13,Instagram,user_75,I hate this product,hate product
+63,2026-03-11,Instagram,user_61,Not worth the money,worth money
+64,2026-02-21,Instagram,user_92,Absolutely fantastic!,absolutely fantastic
+65,2026-04-25,Reddit,user_99,I love this product!,love product
+66,2026-02-25,Instagram,user_18,Not worth the money,worth money
+67,2026-04-10,Instagram,user_84,I love this product!,love product
+68,2026-01-30,Reddit,user_82,Terrible quality,terrible quality
+69,2026-02-15,Instagram,user_49,Decent overall,decent overall
+70,2026-04-01,Instagram,user_32,I hate this product,hate product
+71,2026-04-17,Twitter,user_61,Terrible quality,terrible quality
+72,2026-02-22,Reddit,user_82,"Not bad, not great",bad great
+73,2026-04-11,Twitter,user_82,"Amazing experience, highly recommend",amazing experience highly recommend
+74,2026-03-07,Instagram,user_13,Decent overall,decent overall
+75,2026-04-25,Twitter,user_4,Could be better,could better
+76,2026-02-19,Instagram,user_37,Very disappointed with the service,disappointed service
+77,2026-02-03,Twitter,user_83,Very disappointed with the service,disappointed service
+78,2026-03-24,Instagram,user_55,Super happy with the quality,super happy quality
+79,2026-02-09,Instagram,user_72,"It's okay, nothing special",okay nothing special
+80,2026-03-11,Twitter,user_35,Very disappointed with the service,disappointed service
+81,2026-04-28,Twitter,user_22,Absolutely fantastic!,absolutely fantastic
+82,2026-03-05,Reddit,user_98,"Not bad, not great",bad great
+83,2026-01-03,Instagram,user_7,Super happy with the quality,super happy quality
+84,2026-02-06,Reddit,user_39,Very disappointed with the service,disappointed service
+85,2026-03-19,Instagram,user_38,"Not bad, not great",bad great
+86,2026-02-05,Reddit,user_65,I hate this product,hate product
+87,2026-02-06,Reddit,user_27,Average experience,average experience
+88,2026-03-14,Reddit,user_23,Decent overall,decent overall
+89,2026-01-06,Twitter,user_82,Very disappointed with the service,disappointed service
+90,2026-01-14,Instagram,user_57,Absolutely fantastic!,absolutely fantastic
+91,2026-03-05,Reddit,user_92,Super happy with the quality,super happy quality
+92,2026-03-17,Twitter,user_6,Could be better,could better
+93,2026-02-07,Reddit,user_99,Absolutely fantastic!,absolutely fantastic
+94,2026-01-12,Reddit,user_40,Not worth the money,worth money
+95,2026-02-06,Instagram,user_6,Decent overall,decent overall
+96,2026-01-13,Instagram,user_91,"It's okay, nothing special",okay nothing special
+97,2026-02-19,Reddit,user_20,Terrible quality,terrible quality
+98,2026-02-18,Instagram,user_99,Best service ever,best service ever
+99,2026-02-17,Reddit,user_72,"Not bad, not great",bad great
+100,2026-02-16,Reddit,user_42,Terrible quality,terrible quality
+101,2026-02-21,Reddit,user_98,Worst experience ever,worst experience ever
+102,2026-01-12,Instagram,user_33,Could be better,could better
+103,2026-04-04,Twitter,user_71,"Not bad, not great",bad great
+104,2026-03-19,Instagram,user_28,Worst experience ever,worst experience ever
+105,2026-04-04,Reddit,user_73,Could be better,could better
+106,2026-01-06,Twitter,user_96,Best service ever,best service ever
+107,2026-01-12,Instagram,user_100,Not worth the money,worth money
+108,2026-01-15,Reddit,user_89,I love this product!,love product
+109,2026-02-21,Reddit,user_74,Average experience,average experience
+110,2026-01-27,Instagram,user_85,"Amazing experience, highly recommend",amazing experience highly recommend
+111,2026-01-12,Twitter,user_92,Absolutely fantastic!,absolutely fantastic
+112,2026-04-04,Reddit,user_88,Terrible quality,terrible quality
+113,2026-04-18,Twitter,user_66,Best service ever,best service ever
+114,2026-04-03,Reddit,user_8,Best service ever,best service ever
+115,2026-04-24,Twitter,user_73,"It's okay, nothing special",okay nothing special
+116,2026-03-11,Instagram,user_27,Worst experience ever,worst experience ever
+117,2026-01-07,Reddit,user_74,Terrible quality,terrible quality
+118,2026-03-08,Reddit,user_37,"Not bad, not great",bad great
+119,2026-04-24,Twitter,user_93,I hate this product,hate product
+120,2026-02-10,Reddit,user_21,Decent overall,decent overall
+121,2026-02-08,Instagram,user_67,I love this product!,love product
+122,2026-03-28,Instagram,user_8,Super happy with the quality,super happy quality
+123,2026-04-15,Twitter,user_5,I hate this product,hate product
+124,2026-02-15,Twitter,user_41,I hate this product,hate product
+125,2026-01-05,Twitter,user_58,Absolutely fantastic!,absolutely fantastic
+126,2026-04-06,Twitter,user_33,Super happy with the quality,super happy quality
+127,2026-04-07,Reddit,user_88,Very disappointed with the service,disappointed service
+128,2026-03-27,Reddit,user_23,"It's okay, nothing special",okay nothing special
+129,2026-01-27,Instagram,user_58,Absolutely fantastic!,absolutely fantastic
+130,2026-03-14,Instagram,user_44,Decent overall,decent overall
+131,2026-03-13,Instagram,user_79,Average experience,average experience
+132,2026-04-23,Instagram,user_92,"Amazing experience, highly recommend",amazing experience highly recommend
+133,2026-03-26,Twitter,user_87,"Amazing experience, highly recommend",amazing experience highly recommend
+134,2026-04-10,Reddit,user_47,"It's okay, nothing special",okay nothing special
+135,2026-02-23,Reddit,user_86,"Amazing experience, highly recommend",amazing experience highly recommend
+136,2026-03-11,Reddit,user_12,Absolutely fantastic!,absolutely fantastic
+137,2026-01-11,Twitter,user_69,Terrible quality,terrible quality
+138,2026-01-10,Twitter,user_52,Not worth the money,worth money
+139,2026-02-20,Reddit,user_28,"Not bad, not great",bad great
+140,2026-02-16,Reddit,user_65,Absolutely fantastic!,absolutely fantastic
+141,2026-04-30,Reddit,user_77,Decent overall,decent overall
+142,2026-01-27,Reddit,user_62,I love this product!,love product
+143,2026-02-06,Reddit,user_68,Super happy with the quality,super happy quality
+144,2026-03-14,Reddit,user_50,Not worth the money,worth money
+145,2026-04-25,Instagram,user_10,I love this product!,love product
+146,2026-03-13,Twitter,user_40,I love this product!,love product
+147,2026-01-11,Reddit,user_48,Best service ever,best service ever
+148,2026-04-23,Reddit,user_27,I love this product!,love product
+149,2026-04-05,Twitter,user_11,"It's okay, nothing special",okay nothing special
+150,2026-02-02,Reddit,user_95,Not worth the money,worth money
+151,2026-01-20,Twitter,user_64,Worst experience ever,worst experience ever
+152,2026-03-22,Twitter,user_10,"Not bad, not great",bad great
+153,2026-02-07,Reddit,user_50,Could be better,could better
+154,2026-04-25,Instagram,user_96,Absolutely fantastic!,absolutely fantastic
+155,2026-02-17,Twitter,user_1,Could be better,could better
+156,2026-02-02,Reddit,user_97,Worst experience ever,worst experience ever
+157,2026-04-07,Instagram,user_94,"Amazing experience, highly recommend",amazing experience highly recommend
+158,2026-01-02,Reddit,user_33,"Amazing experience, highly recommend",amazing experience highly recommend
+159,2026-02-18,Twitter,user_28,Not worth the money,worth money
+160,2026-01-17,Reddit,user_69,Terrible quality,terrible quality
+161,2026-04-29,Reddit,user_47,Best service ever,best service ever
+162,2026-01-31,Instagram,user_55,"Amazing experience, highly recommend",amazing experience highly recommend
+163,2026-04-28,Instagram,user_26,Not worth the money,worth money
+164,2026-01-17,Instagram,user_54,Super happy with the quality,super happy quality
+165,2026-01-20,Twitter,user_39,I hate this product,hate product
+166,2026-04-26,Twitter,user_100,Terrible quality,terrible quality
+167,2026-04-28,Reddit,user_50,"Amazing experience, highly recommend",amazing experience highly recommend
+168,2026-03-28,Instagram,user_24,Absolutely fantastic!,absolutely fantastic
+169,2026-02-25,Reddit,user_57,Terrible quality,terrible quality
+170,2026-03-27,Instagram,user_6,Not worth the money,worth money
+171,2026-04-04,Reddit,user_7,I love this product!,love product
+172,2026-04-09,Reddit,user_93,Super happy with the quality,super happy quality
+173,2026-03-26,Twitter,user_15,Absolutely fantastic!,absolutely fantastic
+174,2026-02-02,Instagram,user_13,Very disappointed with the service,disappointed service
+175,2026-04-03,Instagram,user_85,Super happy with the quality,super happy quality
+176,2026-04-09,Reddit,user_35,Not worth the money,worth money
+177,2026-02-28,Reddit,user_5,Absolutely fantastic!,absolutely fantastic
+178,2026-04-04,Instagram,user_24,Worst experience ever,worst experience ever
+179,2026-04-14,Instagram,user_57,Best service ever,best service ever
+180,2026-01-11,Instagram,user_47,Terrible quality,terrible quality
+181,2026-04-19,Instagram,user_20,"Not bad, not great",bad great
+182,2026-01-23,Twitter,user_18,Could be better,could better
+183,2026-02-19,Reddit,user_76,Worst experience ever,worst experience ever
+184,2026-01-13,Reddit,user_79,Terrible quality,terrible quality
+185,2026-04-14,Twitter,user_23,Super happy with the quality,super happy quality
+186,2026-02-12,Instagram,user_17,Terrible quality,terrible quality
+187,2026-04-25,Twitter,user_6,"It's okay, nothing special",okay nothing special
+188,2026-02-20,Reddit,user_73,I love this product!,love product
+189,2026-02-18,Instagram,user_93,Very disappointed with the service,disappointed service
+190,2026-01-24,Instagram,user_5,Very disappointed with the service,disappointed service
+191,2026-02-20,Instagram,user_18,Average experience,average experience
+192,2026-03-17,Twitter,user_43,Average experience,average experience
+193,2026-02-22,Reddit,user_100,I love this product!,love product
+194,2026-03-26,Twitter,user_42,I love this product!,love product
+195,2026-04-22,Instagram,user_42,Super happy with the quality,super happy quality
+196,2026-02-24,Instagram,user_78,Terrible quality,terrible quality
+197,2026-01-17,Instagram,user_13,"Not bad, not great",bad great
+198,2026-04-17,Twitter,user_42,Absolutely fantastic!,absolutely fantastic
+199,2026-01-16,Reddit,user_21,Terrible quality,terrible quality
+200,2026-02-17,Twitter,user_32,Terrible quality,terrible quality
+201,2026-04-28,Twitter,user_21,Not worth the money,worth money
+202,2026-04-16,Twitter,user_87,"It's okay, nothing special",okay nothing special
+203,2026-01-12,Reddit,user_54,Could be better,could better
+204,2026-04-13,Instagram,user_38,"Amazing experience, highly recommend",amazing experience highly recommend
+205,2026-02-23,Twitter,user_64,"Not bad, not great",bad great
+206,2026-01-26,Twitter,user_30,"Amazing experience, highly recommend",amazing experience highly recommend
+207,2026-02-23,Instagram,user_53,Worst experience ever,worst experience ever
+208,2026-01-25,Reddit,user_5,Decent overall,decent overall
+209,2026-01-29,Instagram,user_95,"It's okay, nothing special",okay nothing special
+210,2026-01-28,Reddit,user_50,Could be better,could better
+211,2026-02-08,Instagram,user_24,I love this product!,love product
+212,2026-02-24,Twitter,user_10,Terrible quality,terrible quality
+213,2026-03-27,Reddit,user_10,I love this product!,love product
+214,2026-01-18,Twitter,user_71,Average experience,average experience
+215,2026-03-05,Instagram,user_9,Not worth the money,worth money
+216,2026-04-29,Twitter,user_76,"Not bad, not great",bad great
+217,2026-04-29,Twitter,user_24,"Amazing experience, highly recommend",amazing experience highly recommend
+218,2026-04-30,Twitter,user_15,"It's okay, nothing special",okay nothing special
+219,2026-01-26,Reddit,user_98,Absolutely fantastic!,absolutely fantastic
+220,2026-02-15,Twitter,user_46,Terrible quality,terrible quality
+221,2026-04-15,Reddit,user_87,Worst experience ever,worst experience ever
+222,2026-02-08,Instagram,user_40,I hate this product,hate product
+223,2026-02-08,Reddit,user_98,I hate this product,hate product
+224,2026-04-21,Reddit,user_12,"It's okay, nothing special",okay nothing special
+225,2026-01-07,Twitter,user_25,Absolutely fantastic!,absolutely fantastic
+226,2026-03-12,Instagram,user_94,"It's okay, nothing special",okay nothing special
+227,2026-04-20,Twitter,user_22,"Not bad, not great",bad great
+228,2026-02-11,Twitter,user_38,Could be better,could better
+229,2026-04-11,Twitter,user_28,"Not bad, not great",bad great
+230,2026-03-06,Twitter,user_79,"Amazing experience, highly recommend",amazing experience highly recommend
+231,2026-03-28,Instagram,user_1,Super happy with the quality,super happy quality
+232,2026-04-16,Twitter,user_41,Super happy with the quality,super happy quality
+233,2026-02-22,Reddit,user_12,Worst experience ever,worst experience ever
+234,2026-04-21,Instagram,user_80,"Amazing experience, highly recommend",amazing experience highly recommend
+235,2026-04-26,Instagram,user_25,Not worth the money,worth money
+236,2026-03-03,Instagram,user_50,Average experience,average experience
+237,2026-01-03,Reddit,user_22,Could be better,could better
+238,2026-01-08,Reddit,user_85,"Not bad, not great",bad great
+239,2026-04-12,Twitter,user_92,I hate this product,hate product
+240,2026-04-20,Twitter,user_22,"Not bad, not great",bad great
+241,2026-02-18,Reddit,user_86,"Not bad, not great",bad great
+242,2026-02-26,Reddit,user_13,Could be better,could better
+243,2026-02-14,Twitter,user_17,Super happy with the quality,super happy quality
+244,2026-01-05,Twitter,user_65,"Amazing experience, highly recommend",amazing experience highly recommend
+245,2026-04-13,Twitter,user_17,Best service ever,best service ever
+246,2026-01-26,Instagram,user_53,I hate this product,hate product
+247,2026-04-28,Reddit,user_37,Super happy with the quality,super happy quality
+248,2026-01-15,Instagram,user_55,Terrible quality,terrible quality
+249,2026-01-30,Twitter,user_61,Worst experience ever,worst experience ever
+250,2026-02-14,Instagram,user_33,Terrible quality,terrible quality
+251,2026-02-02,Reddit,user_6,Best service ever,best service ever
+252,2026-04-12,Reddit,user_53,"It's okay, nothing special",okay nothing special
+253,2026-04-12,Twitter,user_95,I love this product!,love product
+254,2026-01-01,Instagram,user_66,Average experience,average experience
+255,2026-01-03,Twitter,user_44,"It's okay, nothing special",okay nothing special
+256,2026-01-14,Instagram,user_12,I love this product!,love product
+257,2026-02-28,Twitter,user_79,"It's okay, nothing special",okay nothing special
+258,2026-02-18,Twitter,user_55,Average experience,average experience
+259,2026-04-23,Reddit,user_41,Super happy with the quality,super happy quality
+260,2026-03-04,Instagram,user_87,Best service ever,best service ever
+261,2026-01-06,Reddit,user_73,Not worth the money,worth money
+262,2026-03-17,Reddit,user_1,Terrible quality,terrible quality
+263,2026-04-03,Reddit,user_32,Absolutely fantastic!,absolutely fantastic
+264,2026-03-20,Reddit,user_59,Super happy with the quality,super happy quality
+265,2026-03-29,Twitter,user_85,I hate this product,hate product
+266,2026-04-26,Twitter,user_31,I love this product!,love product
+267,2026-01-12,Instagram,user_72,I love this product!,love product
+268,2026-02-14,Instagram,user_89,Terrible quality,terrible quality
+269,2026-02-06,Twitter,user_40,Could be better,could better
+270,2026-01-04,Instagram,user_70,Not worth the money,worth money
+271,2026-03-31,Instagram,user_73,Worst experience ever,worst experience ever
+272,2026-03-05,Instagram,user_7,Decent overall,decent overall
+273,2026-03-24,Twitter,user_86,Absolutely fantastic!,absolutely fantastic
+274,2026-01-21,Instagram,user_76,"Not bad, not great",bad great
+275,2026-04-19,Reddit,user_28,Terrible quality,terrible quality
+276,2026-03-22,Twitter,user_38,I love this product!,love product
+277,2026-03-21,Reddit,user_31,"Not bad, not great",bad great
+278,2026-02-07,Reddit,user_98,Not worth the money,worth money
+279,2026-03-10,Twitter,user_36,Best service ever,best service ever
+280,2026-02-21,Reddit,user_32,"Amazing experience, highly recommend",amazing experience highly recommend
+281,2026-04-03,Reddit,user_31,"It's okay, nothing special",okay nothing special
+282,2026-01-03,Reddit,user_8,Could be better,could better
+283,2026-03-23,Reddit,user_49,Best service ever,best service ever
+284,2026-02-08,Instagram,user_85,Worst experience ever,worst experience ever
+285,2026-03-25,Reddit,user_10,"It's okay, nothing special",okay nothing special
+286,2026-01-22,Instagram,user_86,"It's okay, nothing special",okay nothing special
+287,2026-03-01,Instagram,user_84,I love this product!,love product
+288,2026-04-10,Reddit,user_45,"Not bad, not great",bad great
+289,2026-03-27,Twitter,user_12,Terrible quality,terrible quality
+290,2026-01-22,Reddit,user_46,Average experience,average experience
+291,2026-03-10,Reddit,user_64,"It's okay, nothing special",okay nothing special
+292,2026-02-04,Reddit,user_42,Best service ever,best service ever
+293,2026-02-11,Twitter,user_94,Worst experience ever,worst experience ever
+294,2026-03-25,Reddit,user_79,I love this product!,love product
+295,2026-02-10,Instagram,user_93,Very disappointed with the service,disappointed service
+296,2026-03-24,Reddit,user_48,"It's okay, nothing special",okay nothing special
+297,2026-02-28,Twitter,user_32,Decent overall,decent overall
+298,2026-02-17,Reddit,user_8,Very disappointed with the service,disappointed service
+299,2026-05-01,Twitter,user_24,Worst experience ever,worst experience ever
+300,2026-04-30,Instagram,user_96,"Not bad, not great",bad great
+301,2026-01-24,Twitter,user_28,"Not bad, not great",bad great
+302,2026-02-08,Twitter,user_4,"Amazing experience, highly recommend",amazing experience highly recommend
+303,2026-02-28,Reddit,user_75,"It's okay, nothing special",okay nothing special
+304,2026-04-24,Reddit,user_81,"It's okay, nothing special",okay nothing special
+305,2026-04-29,Reddit,user_22,I love this product!,love product
+306,2026-04-29,Twitter,user_83,Best service ever,best service ever
+307,2026-01-05,Reddit,user_92,"Amazing experience, highly recommend",amazing experience highly recommend
+308,2026-01-19,Reddit,user_12,Could be better,could better
+309,2026-01-10,Reddit,user_43,Could be better,could better
+310,2026-03-02,Instagram,user_68,Not worth the money,worth money
+311,2026-05-01,Reddit,user_32,Not worth the money,worth money
+312,2026-04-08,Instagram,user_9,Not worth the money,worth money
+313,2026-03-27,Reddit,user_31,"Amazing experience, highly recommend",amazing experience highly recommend
+314,2026-01-25,Instagram,user_72,Average experience,average experience
+315,2026-01-06,Twitter,user_49,Could be better,could better
+316,2026-04-18,Reddit,user_73,Worst experience ever,worst experience ever
+317,2026-03-14,Instagram,user_96,Terrible quality,terrible quality
+318,2026-04-06,Instagram,user_21,Terrible quality,terrible quality
+319,2026-02-27,Twitter,user_76,"It's okay, nothing special",okay nothing special
+320,2026-03-21,Reddit,user_98,Decent overall,decent overall
+321,2026-03-30,Instagram,user_26,Decent overall,decent overall
+322,2026-04-14,Instagram,user_73,Terrible quality,terrible quality
+323,2026-02-19,Instagram,user_69,Average experience,average experience
+324,2026-03-16,Reddit,user_6,I hate this product,hate product
+325,2026-02-28,Twitter,user_10,Not worth the money,worth money
+326,2026-02-21,Twitter,user_31,Terrible quality,terrible quality
+327,2026-04-01,Twitter,user_17,Best service ever,best service ever
+328,2026-03-29,Twitter,user_47,I hate this product,hate product
+329,2026-01-29,Twitter,user_7,"Amazing experience, highly recommend",amazing experience highly recommend
+330,2026-04-05,Twitter,user_80,I love this product!,love product
+331,2026-02-28,Instagram,user_75,Worst experience ever,worst experience ever
+332,2026-02-11,Reddit,user_9,"It's okay, nothing special",okay nothing special
+333,2026-03-16,Instagram,user_98,Absolutely fantastic!,absolutely fantastic
+334,2026-03-26,Reddit,user_35,Terrible quality,terrible quality
+335,2026-02-02,Reddit,user_57,Best service ever,best service ever
+336,2026-02-08,Twitter,user_43,"It's okay, nothing special",okay nothing special
+337,2026-01-08,Instagram,user_85,Average experience,average experience
+338,2026-03-26,Instagram,user_26,Not worth the money,worth money
+339,2026-03-22,Instagram,user_11,Best service ever,best service ever
+340,2026-03-16,Twitter,user_32,I love this product!,love product
+341,2026-04-30,Twitter,user_66,Not worth the money,worth money
+342,2026-04-24,Reddit,user_61,Terrible quality,terrible quality
+343,2026-04-06,Twitter,user_100,Worst experience ever,worst experience ever
+344,2026-02-03,Instagram,user_90,Decent overall,decent overall
+345,2026-04-13,Instagram,user_44,Terrible quality,terrible quality
+346,2026-03-08,Reddit,user_34,I hate this product,hate product
+347,2026-02-05,Reddit,user_72,I love this product!,love product
+348,2026-01-24,Instagram,user_72,Very disappointed with the service,disappointed service
+349,2026-01-15,Instagram,user_1,Decent overall,decent overall
+350,2026-04-17,Instagram,user_45,Could be better,could better
+351,2026-02-28,Twitter,user_35,Could be better,could better
+352,2026-03-05,Twitter,user_27,"Amazing experience, highly recommend",amazing experience highly recommend
+353,2026-02-14,Reddit,user_41,Not worth the money,worth money
+354,2026-03-03,Instagram,user_7,I love this product!,love product
+355,2026-03-13,Twitter,user_10,Decent overall,decent overall
+356,2026-01-29,Reddit,user_37,Best service ever,best service ever
+357,2026-04-24,Instagram,user_66,Worst experience ever,worst experience ever
+358,2026-03-10,Twitter,user_70,Terrible quality,terrible quality
+359,2026-04-01,Reddit,user_60,I love this product!,love product
+360,2026-03-29,Instagram,user_32,Very disappointed with the service,disappointed service
+361,2026-01-11,Reddit,user_80,I hate this product,hate product
+362,2026-04-17,Reddit,user_7,I love this product!,love product
+363,2026-02-18,Instagram,user_45,Could be better,could better
+364,2026-01-03,Reddit,user_91,Not worth the money,worth money
+365,2026-04-22,Twitter,user_69,Average experience,average experience
+366,2026-01-21,Instagram,user_77,Could be better,could better
+367,2026-03-02,Reddit,user_55,Absolutely fantastic!,absolutely fantastic
+368,2026-03-16,Instagram,user_93,"Amazing experience, highly recommend",amazing experience highly recommend
+369,2026-01-07,Instagram,user_78,Absolutely fantastic!,absolutely fantastic
+370,2026-04-15,Reddit,user_43,Best service ever,best service ever
+371,2026-01-05,Instagram,user_39,"Not bad, not great",bad great
+372,2026-04-23,Instagram,user_22,Very disappointed with the service,disappointed service
+373,2026-01-21,Twitter,user_65,"It's okay, nothing special",okay nothing special
+374,2026-04-15,Twitter,user_55,Very disappointed with the service,disappointed service
+375,2026-02-09,Twitter,user_46,Very disappointed with the service,disappointed service
+376,2026-01-07,Twitter,user_33,Super happy with the quality,super happy quality
+377,2026-02-20,Instagram,user_40,Could be better,could better
+378,2026-04-07,Twitter,user_94,Worst experience ever,worst experience ever
+379,2026-04-20,Instagram,user_57,I love this product!,love product
+380,2026-03-30,Twitter,user_90,"It's okay, nothing special",okay nothing special
+381,2026-03-14,Reddit,user_82,"Amazing experience, highly recommend",amazing experience highly recommend
+382,2026-03-06,Reddit,user_17,I hate this product,hate product
+383,2026-02-02,Reddit,user_22,Absolutely fantastic!,absolutely fantastic
+384,2026-01-22,Instagram,user_71,Worst experience ever,worst experience ever
+385,2026-01-23,Reddit,user_77,"Not bad, not great",bad great
+386,2026-04-28,Twitter,user_32,Average experience,average experience
+387,2026-04-09,Reddit,user_19,"Not bad, not great",bad great
+388,2026-04-08,Instagram,user_100,Absolutely fantastic!,absolutely fantastic
+389,2026-02-02,Instagram,user_56,Very disappointed with the service,disappointed service
+390,2026-03-18,Instagram,user_62,Decent overall,decent overall
+391,2026-03-04,Twitter,user_30,I love this product!,love product
+392,2026-01-09,Twitter,user_93,Very disappointed with the service,disappointed service
+393,2026-01-19,Instagram,user_60,"Amazing experience, highly recommend",amazing experience highly recommend
+394,2026-02-11,Reddit,user_54,Could be better,could better
+395,2026-01-09,Twitter,user_27,Best service ever,best service ever
+396,2026-03-22,Reddit,user_83,Average experience,average experience
+397,2026-03-25,Twitter,user_71,Super happy with the quality,super happy quality
+398,2026-02-28,Reddit,user_67,Absolutely fantastic!,absolutely fantastic
+399,2026-03-24,Instagram,user_46,Worst experience ever,worst experience ever
+400,2026-01-30,Twitter,user_43,"Amazing experience, highly recommend",amazing experience highly recommend
+401,2026-01-31,Instagram,user_48,Decent overall,decent overall
+402,2026-04-23,Reddit,user_48,Super happy with the quality,super happy quality
+403,2026-04-07,Instagram,user_16,Not worth the money,worth money
+404,2026-04-07,Twitter,user_26,"Amazing experience, highly recommend",amazing experience highly recommend
+405,2026-03-02,Reddit,user_96,"Amazing experience, highly recommend",amazing experience highly recommend
+406,2026-01-13,Instagram,user_42,Absolutely fantastic!,absolutely fantastic
+407,2026-02-16,Twitter,user_83,I love this product!,love product
+408,2026-03-22,Instagram,user_83,Super happy with the quality,super happy quality
+409,2026-04-17,Reddit,user_87,Absolutely fantastic!,absolutely fantastic
+410,2026-03-31,Instagram,user_21,"Amazing experience, highly recommend",amazing experience highly recommend
+411,2026-03-22,Twitter,user_94,Very disappointed with the service,disappointed service
+412,2026-04-24,Twitter,user_92,Super happy with the quality,super happy quality
+413,2026-02-20,Reddit,user_17,Super happy with the quality,super happy quality
+414,2026-03-30,Twitter,user_83,I hate this product,hate product
+415,2026-04-04,Twitter,user_69,"Amazing experience, highly recommend",amazing experience highly recommend
+416,2026-02-10,Twitter,user_36,Not worth the money,worth money
+417,2026-02-16,Instagram,user_87,Absolutely fantastic!,absolutely fantastic
+418,2026-02-16,Reddit,user_51,Could be better,could better
+419,2026-03-08,Twitter,user_36,Average experience,average experience
+420,2026-01-09,Instagram,user_96,I love this product!,love product
+421,2026-04-26,Reddit,user_98,I love this product!,love product
+422,2026-02-20,Instagram,user_43,Decent overall,decent overall
+423,2026-03-11,Reddit,user_83,Super happy with the quality,super happy quality
+424,2026-02-21,Instagram,user_31,Best service ever,best service ever
+425,2026-01-02,Instagram,user_35,I love this product!,love product
+426,2026-02-04,Twitter,user_10,"It's okay, nothing special",okay nothing special
+427,2026-04-25,Reddit,user_41,Terrible quality,terrible quality
+428,2026-01-19,Twitter,user_1,Best service ever,best service ever
+429,2026-03-27,Twitter,user_31,I hate this product,hate product
+430,2026-03-06,Reddit,user_21,Average experience,average experience
+431,2026-02-01,Reddit,user_12,Very disappointed with the service,disappointed service
+432,2026-01-15,Twitter,user_91,Terrible quality,terrible quality
+433,2026-02-28,Instagram,user_62,Terrible quality,terrible quality
+434,2026-02-12,Reddit,user_69,I love this product!,love product
+435,2026-01-10,Instagram,user_44,Best service ever,best service ever
+436,2026-04-10,Instagram,user_90,Could be better,could better
+437,2026-03-20,Reddit,user_2,"It's okay, nothing special",okay nothing special
+438,2026-03-05,Reddit,user_34,I hate this product,hate product
+439,2026-02-07,Reddit,user_7,"Not bad, not great",bad great
+440,2026-04-23,Twitter,user_23,Best service ever,best service ever
+441,2026-03-03,Reddit,user_80,Worst experience ever,worst experience ever
+442,2026-03-25,Instagram,user_1,Worst experience ever,worst experience ever
+443,2026-02-21,Twitter,user_49,I love this product!,love product
+444,2026-03-10,Instagram,user_66,Best service ever,best service ever
+445,2026-04-18,Reddit,user_60,Terrible quality,terrible quality
+446,2026-03-24,Reddit,user_55,Terrible quality,terrible quality
+447,2026-04-25,Twitter,user_89,Super happy with the quality,super happy quality
+448,2026-01-07,Reddit,user_100,"Amazing experience, highly recommend",amazing experience highly recommend
+449,2026-01-26,Instagram,user_47,"Amazing experience, highly recommend",amazing experience highly recommend
+450,2026-01-08,Instagram,user_97,"Not bad, not great",bad great
+451,2026-03-02,Instagram,user_60,Super happy with the quality,super happy quality
+452,2026-03-05,Reddit,user_47,I hate this product,hate product
+453,2026-03-14,Reddit,user_1,Terrible quality,terrible quality
+454,2026-01-22,Instagram,user_31,I love this product!,love product
+455,2026-04-30,Reddit,user_59,"Amazing experience, highly recommend",amazing experience highly recommend
+456,2026-03-28,Twitter,user_52,"It's okay, nothing special",okay nothing special
+457,2026-04-28,Instagram,user_24,"Not bad, not great",bad great
+458,2026-01-12,Twitter,user_59,Worst experience ever,worst experience ever
+459,2026-03-01,Twitter,user_79,Worst experience ever,worst experience ever
+460,2026-04-28,Twitter,user_63,I love this product!,love product
+461,2026-03-23,Twitter,user_98,Best service ever,best service ever
+462,2026-04-16,Instagram,user_71,Decent overall,decent overall
+463,2026-04-03,Twitter,user_80,Could be better,could better
+464,2026-02-26,Instagram,user_54,"Amazing experience, highly recommend",amazing experience highly recommend
+465,2026-01-19,Reddit,user_81,I hate this product,hate product
+466,2026-01-23,Twitter,user_91,"It's okay, nothing special",okay nothing special
+467,2026-02-04,Instagram,user_46,I hate this product,hate product
+468,2026-04-24,Reddit,user_26,"It's okay, nothing special",okay nothing special
+469,2026-03-13,Twitter,user_14,Terrible quality,terrible quality
+470,2026-01-20,Twitter,user_62,"Not bad, not great",bad great
+471,2026-01-05,Reddit,user_91,Best service ever,best service ever
+472,2026-01-26,Twitter,user_12,"It's okay, nothing special",okay nothing special
+473,2026-01-22,Twitter,user_64,Very disappointed with the service,disappointed service
+474,2026-01-04,Instagram,user_27,"Amazing experience, highly recommend",amazing experience highly recommend
+475,2026-01-10,Reddit,user_20,Average experience,average experience
+476,2026-01-21,Reddit,user_46,"Not bad, not great",bad great
+477,2026-03-20,Twitter,user_80,Best service ever,best service ever
+478,2026-03-16,Reddit,user_9,I hate this product,hate product
+479,2026-03-22,Reddit,user_39,"Amazing experience, highly recommend",amazing experience highly recommend
+480,2026-01-14,Instagram,user_47,Best service ever,best service ever
+481,2026-01-19,Instagram,user_56,"It's okay, nothing special",okay nothing special
+482,2026-03-23,Reddit,user_47,Decent overall,decent overall
+483,2026-03-30,Reddit,user_27,"Not bad, not great",bad great
+484,2026-03-12,Instagram,user_18,Terrible quality,terrible quality
+485,2026-04-07,Reddit,user_66,Not worth the money,worth money
+486,2026-02-12,Instagram,user_72,Best service ever,best service ever
+487,2026-01-04,Reddit,user_48,"It's okay, nothing special",okay nothing special
+488,2026-02-24,Instagram,user_68,Best service ever,best service ever
+489,2026-03-11,Twitter,user_84,Super happy with the quality,super happy quality
+490,2026-01-11,Instagram,user_26,Terrible quality,terrible quality
+491,2026-04-22,Reddit,user_100,Super happy with the quality,super happy quality
+492,2026-01-07,Twitter,user_56,Super happy with the quality,super happy quality
+493,2026-04-13,Instagram,user_23,Worst experience ever,worst experience ever
+494,2026-03-05,Reddit,user_13,Absolutely fantastic!,absolutely fantastic
+495,2026-01-19,Instagram,user_43,"It's okay, nothing special",okay nothing special
+496,2026-01-19,Instagram,user_8,Best service ever,best service ever
+497,2026-01-02,Twitter,user_40,Average experience,average experience
+498,2026-04-08,Reddit,user_83,Average experience,average experience
+499,2026-01-25,Reddit,user_77,Best service ever,best service ever
